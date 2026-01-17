@@ -946,9 +946,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: "898fd4ebcef77f5177b08aa6f9b9047bd02c6b9b"
-      url: "https://github.com/KRTirtho/flutter_new_pipe_extractor.git"
+      ref: integration
+      resolved-ref: "6afaf2824d7c85d6448e886e4feb82d9b2427559"
+      url: "https://github.com/marcegeek/flutter_new_pipe_extractor.git"
     source: git
     version: "0.1.0"
   flutter_plugin_android_lifecycle:
